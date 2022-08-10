@@ -1,7 +1,7 @@
 FROM nginx
 EXPOSE 80
 
-LABEL author="Mohammed Shaikh"
+LABEL author="Aisha ALsubaie"
 
 COPY . /usr/share/nginx/html
 
